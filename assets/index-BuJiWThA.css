@@ -887,7 +887,7 @@ footer {
     line-height: 1.5;
     font-weight: 400;
     color: #ffffffde;
-    background: url(/HackHound2k24/Images/bgabstract.jpg);
+    background: url(/Images/bgabstract.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -945,7 +945,7 @@ button:focus-visible {
 @media (prefers-color-scheme: light) {
     :root {
         color: #fff;
-        background: url(/HackHound2k24/Images/bgabstract.jpg);
+        background: url(/Images/bgabstract.jpg);
         background-attachment: fixed;
         background-position: center;
         background-repeat: no-repeat;
